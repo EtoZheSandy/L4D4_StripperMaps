@@ -17,7 +17,7 @@ The one you like the most. I do not guarantee trouble-free operation of any of t
 The same Stripper with fixed bugs, but also a dynamic choice of the path that I made up on my own
 - prop is not everywhere matched to the map theme, because the idea was in routes and not textures.
 
-## What's inside?
+## What are the projects inside?
 
 **RoutingPaths:** Stripper (Fork *[L4D2] Routing (Dynamic Paths)*), .cfg files
 
@@ -70,7 +70,7 @@ The same Stripper with fixed bugs, but also a dynamic choice of the path that I 
 Тот же самый Stripper с исправленными багами но так же динамическим выбором пути который я составлял самостоятельно
 - prop не везде подобраны в тему карты ведь идея была в маршрутах а не текстурах.
 
-## Что внутри?
+## Какие проекты находятся внутри?
 
 **RoutingPaths:** Stripper (Fork *[L4D2] Routing (Dynamic Paths)*), .cfg files
 
