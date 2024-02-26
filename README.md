@@ -43,7 +43,14 @@ The same Stripper with fixed bugs, but also a dynamic choice of the path that I 
 - The spawn of objects can be changed
 
 
+# Path Easy
+<img src='./preview/path_easy.jpg' width='80%' >
 
+# Path Medium.jpg
+<img src='./preview/path_medium.jpg' width='80%' >
+
+# Path Hard.jpg
+<img src='./preview/path_hard.jpg' width='80%' >
 
 # Что это?
 
