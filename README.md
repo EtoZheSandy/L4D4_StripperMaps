@@ -19,7 +19,7 @@ The same Stripper with fixed bugs, but also a dynamic choice of the path that I 
 
 ## What's inside?
 
-**AnyServers:** Stripper (Fork *[L4D2] Routing (Dynamic Paths)*), .cfg files
+**RoutingPaths:** Stripper (Fork *[L4D2] Routing (Dynamic Paths)*), .cfg files
 
 **T1 Hard (Sky):** Stripper (Fork *Attano/Sky*), .cfg files
 
@@ -72,7 +72,7 @@ The same Stripper with fixed bugs, but also a dynamic choice of the path that I 
 
 ## Что внутри?
 
-**AnyServers:** Stripper (Fork *[L4D2] Routing (Dynamic Paths)*), .cfg files
+**RoutingPaths:** Stripper (Fork *[L4D2] Routing (Dynamic Paths)*), .cfg files
 
 **T1 Hard (Sky):** Stripper (Fork *Attano/Sky*), .cfg files
 
