@@ -28,7 +28,7 @@ The same Stripper with fixed bugs, but also a dynamic choice of the path that I 
 
 ## Authors
 
-- [AnyServers](https://www.github.com/etozhesandy) + [Routing (Dynamic Paths)](https://forums.alliedmods.net/showthread.php?p=1172643)
+- [RoutingPaths](https://www.github.com/etozhesandy) + [Routing (Dynamic Paths)](https://forums.alliedmods.net/showthread.php?p=1172643)
 - [T1 Hard (Sky)](https://github.com/Attano/Sky)
 - [VscriptRandomObject](https://steamcommunity.com/sharedfiles/filedetails/?id=2524562871)
 
@@ -81,7 +81,7 @@ The same Stripper with fixed bugs, but also a dynamic choice of the path that I 
 
 ## Авторы
 
-- [AnyServers](https://www.github.com/etozhesandy) + [Routing (Dynamic Paths)](https://forums.alliedmods.net/showthread.php?p=1172643)
+- [RoutingPaths](https://www.github.com/etozhesandy) + [Routing (Dynamic Paths)](https://forums.alliedmods.net/showthread.php?p=1172643)
 - [T1 Hard (Sky)](https://github.com/Attano/Sky)
 - [VscriptRandomObject](https://steamcommunity.com/sharedfiles/filedetails/?id=2524562871)
 
