@@ -4,7 +4,7 @@
 These are the changes for the maps in Left 4 Dead 2
 
 
-### Why are there 3 folders?
+### Why are there 4 folders?
 
 Each of them is used on different servers
 
@@ -59,7 +59,7 @@ The same Stripper with fixed bugs, but also a dynamic choice of the path that I 
 Это изменения для карт в Left 4 Dead 2.
 
 
-### Почему тут 3 папки?
+### Почему тут 4 папки?
 
 Каждая из них используется на разных серверах со своим стилем игры
 
