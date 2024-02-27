@@ -25,13 +25,15 @@ The same Stripper with fixed bugs, but also a dynamic choice of the path that I 
 
 **VscriptRandomObject:** Vscript (Fork *Workshop addons id=2524562871*), .nut files + .nav Meshes files
 
+**Rework:** Stripper + Vscript (Fork *Derpduck/L4D2-Comp-Stripper-Rework*)
+
 
 ## Authors
 
 - [RoutingPaths](https://www.github.com/etozhesandy) + [Routing (Dynamic Paths)](https://forums.alliedmods.net/showthread.php?p=1172643)
 - [T1 Hard (Sky)](https://github.com/Attano/Sky)
 - [VscriptRandomObject](https://steamcommunity.com/sharedfiles/filedetails/?id=2524562871)
-
+- [Rework](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework)
 
 
 ## Bugs
@@ -78,13 +80,14 @@ The same Stripper with fixed bugs, but also a dynamic choice of the path that I 
 
 **VscriptRandomObject:** Vscript (Fork *Workshop addons id=2524562871*), .nut files + .nav Meshes files
 
+**Rework:** Stripper + Vscript (Fork *Derpduck/L4D2-Comp-Stripper-Rework*)
 
 ## Авторы
 
 - [RoutingPaths](https://www.github.com/etozhesandy) + [Routing (Dynamic Paths)](https://forums.alliedmods.net/showthread.php?p=1172643)
 - [T1 Hard (Sky)](https://github.com/Attano/Sky)
 - [VscriptRandomObject](https://steamcommunity.com/sharedfiles/filedetails/?id=2524562871)
-
+- [Rework](https://github.com/Derpduck/L4D2-Comp-Stripper-Rework)
 
 
 ## Ошибки
